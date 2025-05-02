@@ -45,7 +45,7 @@ This pipeline is designed to enhance network security analysis by linking **3GPP
   Dataset of cellular-related CVEs sourced from [chipsets.org](https://www.chipsets.org/).
 
 - `conflict_segments_4G.txt`  
-  Conflict segments extracted from 4G specifications using [CellularLint](https://github.com/ucsb-seclab/CellularLint).
+  Conflict segments extracted from 4G specifications using [CellularLint](https://cellularlint.github.io/).
 
 - `conflict_segments_gpt_enhanced.xlsx`  
   LLM-enhanced conflict segment analysis of 4G specifications.
@@ -83,5 +83,5 @@ This pipeline is designed to enhance network security analysis by linking **3GPP
 
 ## References
 
-- [CellularLint: Systematic Detection of Specification Inconsistencies in Cellular Networks](https://github.com/ucsb-seclab/CellularLint)  
+- [CellularLint: Systematic Detection of Specification Inconsistencies in Cellular Networks](https://cellularlint.github.io/) 
 - [chipsets.org: Cellular Vulnerabilities Database](https://www.chipsets.org/)
